@@ -1,0 +1,5 @@
+# _config.yml
+theme: minima
+title: "UCSD AVL Lab Project"
+description: "Documentation of a sensor fusion and obstacle avoidance project leveraging UCSD AVL lab resources and advanced integration techniques."
+# You can add more configuration options (e.g., custom CSS) as needed.

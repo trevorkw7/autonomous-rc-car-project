@@ -1,0 +1,23 @@
+/* assets/css/style.css */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  a {
+    color: #007acc;
+  }
+  
+  a:hover {
+    color: #005a99;
+  }
+  
+  /* Add any additional customizations below */
+  

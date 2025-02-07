@@ -1,23 +1,21 @@
-/* assets/css/style.css */
-body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background: #f9f9f9;
+/* Custom Code Block Styling */
+pre {
+    background-color: #282c34;
+    border-radius: 5px;
+    overflow-x: auto;
+    padding: 1em;
+    margin: 1.5em 0;
   }
   
-  h1, h2, h3 {
-    color: #333;
+  code {
+    font-family: 'Fira Code', Consolas, Menlo, monospace;
+    font-size: 0.9em;
+    color: #abb2bf;
   }
   
-  a {
-    color: #007acc;
+  p code {
+    background-color: #e1e1e1;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
   }
-  
-  a:hover {
-    color: #005a99;
-  }
-  
-  /* Add any additional customizations below */
   
